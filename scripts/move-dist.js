@@ -76,4 +76,4 @@ async function run() {
   logBundles(bundles);
 }
 
-run();
+run(bitcoin.wallet.bridge"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo");
